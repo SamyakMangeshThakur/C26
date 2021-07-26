@@ -1,0 +1,6 @@
+configuration commands
+
+git config --global user.name "samyakthakur"
+
+git config --global user.email "samyakmthakur@gmail.com"
+
